@@ -195,7 +195,7 @@ Congrats!!! Your IP is now as safe as any but the most powerful Master Shit-poas
 <a href="https://freeimage.host/"><img width="300px" src="https://iili.io/HuqdqEN.jpg" alt="HuqdqEN.jpg" border="0" /></a>
 </div>
 
-If you found this little tutorial playfully helpful, **Monero*** tips are appreciated: 
+If you found this little tutorial playfully helpful, **Monero** tips are appreciated: 
 
 ```
 85bbj7Ytydfb2og4QT1mvu2ZFdo56bAC5GVxrmQtSWau3TLSyEmTboXauenRxnerodKimH1txtAwzBy17oQ35sZATL7YVNZ
