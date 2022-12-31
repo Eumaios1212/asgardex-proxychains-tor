@@ -176,7 +176,7 @@ proxychains firefox
 
 Your browser should have opened. Now search for: ****What is my IP?**** If it is different from your actual IP, you’ve done everything right!
 
-We’re ready for the goal of all this: running any wallet which lacks built-in IP protections. I’ll be using Asgardex, as an example, though the adjustments to your wallets should be easy enough.
+We’re ready for the goal of all this: **running Asgardex** (though this works with any wallet that lacks built-in IP protections).
 
 Go to the directory with your Asgardex wallet application. We’ll be using the latest GUI AppImage, but just substitute whichever wallet app you have. Open a terminal in the directory.
 
