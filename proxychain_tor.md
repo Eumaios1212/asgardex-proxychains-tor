@@ -10,7 +10,7 @@
 
 Certain protocols, such as [Monero](https://www.getmonero.org/resources/about/), [Zano](https://docs.zano.org/docs/getting-started) and [Grin](https://grin.mw/) and [Beam](https://documentation.beam.mw/#private-transactions) offer “privacy by default”—whether using the Graphic User Interface (GUI) of the plebs or the Command Line Interface (CLI) of the Patricians. That privacy, however, is often related solely to your transactions: with such “privacy coins,” no one can view the contents of your wallet, even if they happen to know your wallet’s address. [^1]
 
-With public ledger coins such as Bitcoin, one the other hand, one must take additional measures beyond the protocol to preserve similar transactional privacy. It is here where coinjoin projects like Samourai's [Whirlpool](https://samouraiwallet.com/whirlpool) are important.
+With public ledger coins such as Bitcoin, on the other hand, one must take additional measures beyond the protocol to preserve similar transactional privacy. It is here where coinjoin projects like Samourai's [Whirlpool](https://samouraiwallet.com/whirlpool) are important.
 
 Few people, however, consider another aspect of privacy: IP privacy. Of the protocols mentioned above, some have gone beyond transactional privacy to also take into account IP privacy, while others haven’t. Monero, Zano, and some Bitcoin wallets such as [Sparrow](https://sparrowwallet.com/docs/mixing-whirlpool.html) (which uses Whirlpool), include feature to prevent IP leakage, while other wallets, such as Beam’s and Thorchain’s [Asgardex](https://github.com/thorchain/asgardex-electron#readme) do not. 
 
