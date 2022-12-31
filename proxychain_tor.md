@@ -119,7 +119,7 @@ In the steps that follow, some configurations may already be properly set. If so
 
 Uncomment ``Proxy DNS requests – no leak for DNS data``
 
-The above command merely makes possible the following options. ****[is this accurate?]****
+The above command merely makes possible the following options.
 
 **Step 5**
 
