@@ -38,7 +38,7 @@ No, we must throw down the fuckin’ gauntlet, reminding ourselves of Fox Mulder
 <a href="https://freeimage.host/"><img width="200px" src="https://iili.io/Huf8EiB.jpg" alt="Huf8EiB.jpg" border="0" /></a>
 </div>
 
-So do VPN providers keep logs of IP addresses? Many, such as Nord, have stated emphatically that they do not; and they have even had third-parties verify their claims. But once again, what will *Perfect Privacy VPN Company* say when Caesar comes knocking with their court order for them to *begin* to track and log IPs? We know their answer:
+So do VPN providers keep logs of IP addresses? Many, such as Nord, have stated emphatically that they do not; and they have even had third-parties verify their claims. But once again, what will *Perfect Privacy VPN Company* say when Caligula comes knocking with his court order for them to *begin* to track and log IPs? We know their answer:
 
 > However, if a court order were issued according to laws and regulations, if it were legally binding under the jurisdiction that we operate in, and if the court were to reject our appeal, then there would be no other option but to comply [sc. and track IPs]. ****The same applies to all existing VPN companies if they operate legally.**** In fact, the same applies to all companies in the world.              ([NordVPN Blog, their emphasis](https://nordvpn.com/blog/how-nordvpn-protects-the-privacy-of-its-customers/))
 
