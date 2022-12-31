@@ -174,8 +174,6 @@ It should tell you that it’s “loaded” and “active.” If so, hit ctr+c t
 proxychains firefox
 ```
 
-**[why is there no ./ used before firefox, as is necessary below with the wallet?]**
-
 Your browser should have opened. Now search for: ****What is my IP?**** If it is different from your actual IP, you’ve done everything right!
 
 We’re ready for the goal of all this: running any wallet which lacks built-in IP protections. I’ll be using Asgardex, as an example, though the adjustments to your wallets should be easy enough.
