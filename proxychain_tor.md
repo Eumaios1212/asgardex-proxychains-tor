@@ -12,7 +12,7 @@ Certain protocols, such as [Monero](https://www.getmonero.org/resources/about/),
 
 With public ledger coins such as Bitcoin, on the other hand, one must take additional measures beyond the protocol to preserve similar transactional privacy. It is here where coinjoin projects like Samourai's [Whirlpool](https://samouraiwallet.com/whirlpool) are important.
 
-Few people, however, consider another aspect of privacy: IP privacy. Of the protocols mentioned above, some have gone beyond transactional privacy to also take into account IP privacy, while others haven’t. Monero, Zano, and some Bitcoin wallets such as [Sparrow](https://sparrowwallet.com/docs/mixing-whirlpool.html) (which uses Whirlpool), include feature to prevent IP leakage, while other wallets, such as Beam’s and Thorchain’s [Asgardex](https://github.com/thorchain/asgardex-electron#readme) do not. 
+Few people, however, consider another aspect of privacy: IP privacy. Of the protocols mentioned above, some have gone beyond transactional privacy to also take into account IP privacy, while others haven’t. Monero, Zano, and some Bitcoin wallets such as [Sparrow](https://sparrowwallet.com/docs/mixing-whirlpool.html) (which uses Whirlpool), include features to prevent IP leakage, while other wallets, such as Beam’s and Thorchain’s [Asgardex](https://github.com/thorchain/asgardex-electron#readme) do not. 
 
 <div>
 <div align=center>
