@@ -158,7 +158,7 @@ In order that we don’t have to restart the Tor Service every time we reboot, w
 sudo systemctl enable tor
 ```
 
-Give it a minute to make sure everything’s copacetic, and then check Tor’s status:
+Restart the terminal with `reset`, and then check Tor’s status:
 
 **Step 8:**
 
