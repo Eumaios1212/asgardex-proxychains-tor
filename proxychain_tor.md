@@ -86,7 +86,7 @@ So unless you’re running certain privacy-hardened Linux distros like (bad-ass)
 ****Step 1:****[^6]
 
 ```
-sudo apt proxychains tor -y
+sudo apt install proxychains tor -y
 ```
 
 Next, we need to modify the configuration file. So select the text editor of your choice (I’ll be using Nano).
@@ -119,7 +119,7 @@ In the steps that follow, some configurations may already be properly set. If so
 
 Uncomment ``Proxy DNS requests – no leak for DNS data``
 
-The above command merely makes possible the following options.
+Uncommenting the above makes possible the following options.
 
 **Step 5**
 
