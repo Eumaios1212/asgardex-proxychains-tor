@@ -225,5 +225,3 @@ If you found this little tutorial playfully helpful, **Monero** tips are appreci
 [^9]: I.e., delete the # at the start of the line.
 
 [^10]: As a final, additional superuser trick, switch out your proxified, torified IP address every now and then by entering: ``sudo service tor restart``.
-
-
