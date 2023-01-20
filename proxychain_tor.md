@@ -174,7 +174,7 @@ It should tell you that it’s “loaded” and “active.” If so, hit ctr+c t
 proxychains firefox
 ```
 
-Your browser should have opened. Now search for: ****What is my IP?**** If it is different from your actual IP, you’ve done everything right!
+Your browser should have opened. Now search for: ****What is my IP?**** If it is different from your actual IP, you’ve done everything right! [^10]
 
 We’re ready for the goal of all this: **running Asgardex** (though this works with any wallet that lacks built-in IP protections).
 
@@ -188,7 +188,9 @@ proxychains ./ASGARDEX-1.18.5-linux.AppImage
 
 If you’ve followed me to here, your Asgardex wallet is now running through proxychains via Tor Service. To close your wallet, just exit it as usual.
 
-Congrats!!! Your IP is now as safe as any but the most powerful Master Shit-poasting Techlords can achieve. [^10]
+Congrats!!! Your IP is now as safe as any but the most powerful Master Shit-poasting Techlords can achieve. [^11]
+
+
 
 <div>
 <div align=center>
@@ -224,4 +226,6 @@ If you found this little tutorial playfully helpful, **Monero** tips are appreci
 
 [^9]: I.e., delete the # at the start of the line.
 
-[^10]: As a final, additional superuser trick, switch out your proxified, torified IP address every now and then by entering: ``sudo service tor restart``.
+[^10]: Be aware that not all software can be successfully run through this service. For more on this, see [How can we help? | Tor Project | Support](https://support.torproject.org/#faq_staying-anonymous)
+
+[^11]: As a final, additional superuser trick, switch out your proxified, torified IP address every now and then by entering: ``sudo service tor restart``.
