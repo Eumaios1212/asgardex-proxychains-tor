@@ -1,5 +1,3 @@
-TESTING
-
 <div>
 <div align=center>
 <a href="https://freeimage.host/"><img width="200px" src="https://iili.io/HuKA6eR.png" width="400px"alt="HuKA6eR.png" border="0" /></a>
