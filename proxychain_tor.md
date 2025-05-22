@@ -1,4 +1,3 @@
-TESTING
 
 <div>
 <div align=center>
@@ -9,6 +8,8 @@ TESTING
 <div align=center>
 <h1>Protecting Asgardex from IP Leakage<h1>
 </div>
+
+Before beginning, a few things must be made clear. 
 
 Certain protocols, such as [Monero](https://www.getmonero.org/resources/about/), [Zano](https://docs.zano.
 org/docs/getting-started), [Grin](https://grin.mw/) and [Beam](https://documentation.beam.mw/#private-transactions) offer “privacy by default”—whether using the Graphic User Interface (GUI) of the plebs or the Command Line Interface (CLI) of the Patricians. That privacy, however, is often related solely to your transactions: with such “privacy coins,” no one can view the contents of your wallet, even if they happen to know your wallet’s address. [^1]
