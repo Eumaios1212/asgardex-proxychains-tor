@@ -19,7 +19,7 @@ module.exports = {
         'revert',
         // 'style',
         'test',
-	'WIP'
+        'wip'
       ]
     ]
   }
